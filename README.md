@@ -7,7 +7,7 @@
  
 ## Demo
 
-DEMO Link: [p-pay.vercel.app](https://p-pay.vercel.app/)
+DEMO Link: [p-pay.vercel.app](https://expepay.vercel.app/)
 
 <br>
 <img src="https://raw.githubusercontent.com/pramodmahato/PhonePe/main/public/phonepe-demo.gif" width="200"/>
@@ -18,7 +18,7 @@ DEMO Link: [p-pay.vercel.app](https://p-pay.vercel.app/)
 Clone the project
 
 ```bash
-  git clone https://github.com/pramodmahato/PhonePe.git
+  git clone https://github.com/amankumarsuman/expepay.git
 ```
 
 Go to the project directory
