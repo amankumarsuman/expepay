@@ -50,8 +50,8 @@ function ResponsiveAppBar() {
             <Box sx={{ flexGrow: 0 }} style={checkIfHome()}>
               <IconButton sx={{ p: 0 }}>
                 <Avatar
-                  alt="Pramod Mahato"
-                  src="https://pramod.xyz/images/self.jpg"
+                  alt="Aman Kumar"
+                  src="https://cdn.hashnode.com/res/hashnode/image/upload/v1612853878205/0j35TXfWy.jpeg"
                 />
               </IconButton>
             </Box>

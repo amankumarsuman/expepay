@@ -54,7 +54,7 @@ function MoneyTransfers() {
       <div className="mt-upi">
         <div>
           <label className="mt-upi-label">My UPI ID:</label>
-          <label className="mt-upi-email">pramod@test</label>
+          <label className="mt-upi-email">aman@ybl</label>
           <IconButton className="mt-upi-icon">
             <KeyboardArrowRightIcon></KeyboardArrowRightIcon>
           </IconButton>
